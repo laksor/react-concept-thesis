@@ -3,7 +3,7 @@
 is to write a JavaScript function: */
 
 function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>;
+  return(<h1>Hello, {props.name}</h1>);
 }
 
 /* This function is a valid React component because it accepts a single 
