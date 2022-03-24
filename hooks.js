@@ -1,0 +1,8 @@
+/*
+
+Hooks make React so much better because you have 
+simpler code that implements similar functionalities 
+faster and more effectively. You can also implement React 
+state and lifecycle methods without writing classes. 
+
+*/
